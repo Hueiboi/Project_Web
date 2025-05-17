@@ -22,7 +22,9 @@ b. main
 - layout slider
 => lần lượt trên xuống dưới btn_prev -> container -> btn_next
 
-- 
+- new_arrivals sửa nhiều ở phần layout, layout cứng chưa linh hoạt khi set min-width
+=> dùng flex-basis để đảm bảo linh hoạt
+
 c. footer
 - căn chỉnh responsive phần content đóng/mở
 => chia layout 3 phần input, label, content. 
@@ -31,7 +33,5 @@ c. footer
     content chứa nội dung cần xuất hiện
 
 *Phần cần làm thêm/đang sửa*
-- bonus: nếu được thì phần grid insta cho thêm icon khi hover
-- Sửa tên và giá sản phẩm
-- responsive cho phần category, instra grid và banner
+
 
